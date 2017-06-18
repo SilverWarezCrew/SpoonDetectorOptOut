@@ -33,6 +33,11 @@ class SpoonDetector{
 
     private static $thingsThatAreNotSpoons = [
         'PocketMine-MP'
+        'SpigotPE'
+        'GenisysPro'
+       // 'Tesseract' #o wait there a realy bad spoon
+       // 'Cookie-MP' #o wait there a realy bad spoon
+       // 'TSP' #o wait there a realy bad spoon
     ];
 
     public static function isThisSpoon() : bool {
