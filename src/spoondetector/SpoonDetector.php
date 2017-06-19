@@ -35,6 +35,7 @@ class SpoonDetector{
         'PocketMine-MP'
         'SpigotPE'
         'GenisysPro'
+        'RockySoftware'
        // 'Tesseract' #o wait there a realy bad spoon
        // 'Cookie-MP' #o wait there a realy bad spoon
        // 'TSP' #o wait there a realy bad spoon
